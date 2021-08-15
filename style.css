@@ -23,6 +23,15 @@ img{
 }
 
 
+
+a:hover img {
+    border-bottom: 2px solid #a812ff; 
+    padding: 5px;
+    margin: 5px 5px 0 0;
+    text-decoration: none; 
+}
+
+
 button{
     border-left: none;
     border-right: none;

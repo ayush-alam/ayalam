@@ -1,0 +1,44 @@
+.normaltext{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.heading{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.head{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.subheading{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+img{
+    width: 47%;
+}
+
+
+button{
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    border-top: none;
+    background-color: white;
+}
+
+
+body{
+    background-color: rgb(50, 53, 59);
+    color: white;
+}
+
+
+.that{
+    background-color: white;
+    width: 90%;
+}
